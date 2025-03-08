@@ -1,12 +1,13 @@
 Oi 👋🏼
-Meu nome é Evilly
+ Meu nome é Evilly
+ 
 Estudante de Análise e Desenvolvimento de Sistemas
 
  ✉️ Você pode entrar em contato comigo em evillyrolim@gmail.com
  
  🧠 Estou aprendendo Js, html, css, vscode, windows e linux.
  
- 🤝 Estou aberto a colaborar em Estou aberto a troca de experiências, colaborar em projetos e aprender com outros profissionais da área da tecnologia.
+ 🤝 Estou aberta a colaborar em projetos, trocar experiências e aprender com outros profissionais da área da tecnologia.
  <a href="https://www.github.com/evillyrl" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/evillyrl?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>### Skills 
 <p align="left">
