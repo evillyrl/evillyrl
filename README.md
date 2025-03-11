@@ -42,7 +42,6 @@ Estou sempre aberta a colaborar em projetos, trocar experiências e aprender com
 
     E-mail: evillyrolim@gmail.com
 
-    GitHub: EvillyR (substitua pelo seu link real)
 
 ## 💡 Interesses Futuros
 
