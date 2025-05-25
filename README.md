@@ -12,11 +12,11 @@ Sou uma entusiasta da tecnologia em constante aprendizado, focada em me desenvol
 
 Aqui estão algumas das tecnologias e ferramentas que estou aprendendo e utilizando:
 
-    Linguagens: JavaScript
+    Linguagens: Python
 
     Front-end: HTML5, CSS3
 
-    Ferramentas de Desenvolvimento: VS Code, Figma
+    Ferramentas de Desenvolvimento: VS Code, PyCharm e Figma
 
     Sistemas Operacionais: Windows, Linux
 
