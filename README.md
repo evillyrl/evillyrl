@@ -12,28 +12,9 @@ Sou uma entusiasta da tecnologia em constante aprendizado, focada em me desenvol
 
 Aqui estão algumas das tecnologias e ferramentas que estou aprendendo e utilizando:
 
-    Linguagens: Python
-
-    Front-end: HTML5, CSS3
-
-    Ferramentas de Desenvolvimento: VS Code, PyCharm e Figma
+    Python, Neo4j, SQL PowerBI
 
     Sistemas Operacionais: Windows, Linux
-
-## 🌱 O que estou aprendendo?
-
-Atualmente, estou focada em:
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-    Aprofundar meus conhecimentos em JavaScript.
-
-    Desenvolver interfaces responsivas com HTML5 e CSS3.
-
-    Explorar o VS Code para aumentar minha produtividade.
-
-    Familiarizar-me com ambientes Linux e Windows para desenvolvimento.
 
 ## 🤝 Colaboração
 
