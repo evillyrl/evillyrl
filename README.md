@@ -1,12 +1,12 @@
 # Olá, me chamo Evilly! 👋🏼
 
-👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+👩‍💻 Estudante de Tecnólogo em Banco de Dados 
 
 📧 Contato: evillyrolim@gmail.com
 
 ## 🚀 Sobre Mim
 
-Sou uma entusiasta da tecnologia em constante aprendizado, focada em me desenvolver como profissional na área de programação. Atualmente, estou explorando o mundo do desenvolvimento web e de sistemas, buscando aprimorar minhas habilidades e contribuir para projetos interessantes.
+Sou uma entusiasta da tecnologia em constante aprendizado, focada em me desenvolver como profissional na área de Banco de dados. Atualmente, estou explorando o mundo da análisededados, buscando aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -45,15 +45,10 @@ Estou sempre aberta a colaborar em projetos, trocar experiências e aprender com
 
 ## 💡 Interesses Futuros
 
-No futuro, pretendo explorar:
-
-    Frameworks front-end como React ou Vue.js.
-
-    Desenvolvimento back-end com Node.js.
+No futuro, pretendo explorar 
 
     Bancos de dados relacionais e não relacionais.
 
-    Boas práticas de UX/UI com Figma.
 
 👩‍💻 "A tecnologia move o mundo, e eu quero fazer parte desse movimento!"
 
