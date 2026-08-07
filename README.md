@@ -6,13 +6,13 @@
 
 ## 🚀 Sobre Mim
 
-Sou uma entusiasta da tecnologia em constante aprendizado, focada em me desenvolver como profissional na área de Banco de dados. Atualmente, estou explorando o mundo da análisededados, buscando aprimorar minhas habilidades e contribuir para projetos interessantes.
+Sou uma entusiasta da tecnologia em constante aprendizado, focada em me desenvolver como profissional na área de Banco de dados. Atualmente, estou explorando o mundo da análise de dados, buscando aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 ## 🛠️ Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas que estou aprendendo e utilizando:
 
-    Python, Neo4j, SQL PowerBI
+    Python, AWS, Neo4j, SQL, PowerBI
 
     Sistemas Operacionais: Windows, Linux
 
@@ -28,7 +28,7 @@ Estou sempre aberta a colaborar em projetos, trocar experiências e aprender com
 
 No futuro, pretendo explorar 
 
-    Bancos de dados relacionais e não relacionais.
+    Bancos de dados relacionais e não relacionais, AI agents e dados com AWS
 
 
 👩‍💻 "A tecnologia move o mundo, e eu quero fazer parte desse movimento!"
